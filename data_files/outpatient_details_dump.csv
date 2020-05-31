@@ -1,8 +1,8 @@
 RegistrationNo,OPDATE,PatName,Amount,Department,Status,DISCOUNT
-1,1/4/2014 7:14,Osbourn,600,CRITICAL CARE,Casualty -Emergency,0
+1.3,1/4/2014 7:14,Osbourn,600,CRITICAL CARE,Casualty -Emergency,0
 2,1/4/2014 7:49,Malvina,400,INTERNAL MEDICINE,OP Consultaion,0
 3,1/4/2014 7:56,Maible,450,NEURO SURGERY,OP Consultaion,0
-4,1/4/2014 7:58,Jada,400,INTERNAL MEDICINE,Follow up,0
+4.5,1/4/2014 7:58,Jada,400,INTERNAL MEDICINE,Follow up,0
 5,1/4/2014 8:03,Farrel,450,GASTROENTEROLOGY & G.I. ENDOSCOPY,Follow up,0
 6,1/4/2014 8:05,Ruddy,450,CARDIOLOGY,Follow up,0
 7,1/4/2014 8:07,Ramsay,450,ONCOLOGY,Follow up,0
