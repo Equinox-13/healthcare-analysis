@@ -8,3 +8,9 @@ Analyzes healthcare data and transforms into useful KPIs.
 3. registrationno, 	opdate,	patname,	amount(greater than 500),	cityname,	districtname,	statename
 4. department (group by), amount (sum)
 5. status (group by), amount (sum)  
+
+
+## Contributors
+1. <a href="https://github.com/RishikeshPote">Rishikesh Pote</a>
+2. <a href="https://github.com/amrutkinage">Amrut Kinage</a>
+3. <a href="https://github.com/Equinox-13">Quaid Johar</a>
