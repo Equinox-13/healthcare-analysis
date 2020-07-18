@@ -2,7 +2,7 @@
 Analyzes healthcare data and transforms into useful KPIs. 
 
 
-## Powerplay Dashboard
+## Powerplay Dashboard :bar_chart:
 1. registrationno, age, gender, cityname, districtname, statename,	admitdatetime (latest) - 50 records
 2. registrationno, opdate (latest), patname,	cityname,	districtname,	statename - 50 records 
 3. registrationno, 	opdate,	patname,	amount(greater than 500),	cityname,	districtname,	statename
@@ -10,7 +10,7 @@ Analyzes healthcare data and transforms into useful KPIs.
 5. status (group by), amount (sum)  
 
 
-## Contributors
-1. <a href="https://github.com/RishikeshPote">Rishikesh Pote</a>
-2. <a href="https://github.com/amrutkinage">Amrut Kinage</a>
-3. <a href="https://github.com/Equinox-13">Quaid Johar</a>
+## Contributors :sparkles:
+<li> :fire:<a href="https://github.com/RishikeshPote">Rishikesh Pote</a><li>
+<li> :cyclone:<a href="https://github.com/amrutkinage">Amrut Kinage</a></li>
+<li> :ocean:<a href="https://github.com/Equinox-13">Quaid Johar</a></li>
