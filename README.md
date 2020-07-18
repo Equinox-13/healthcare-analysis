@@ -11,6 +11,6 @@ Analyzes healthcare data and transforms into useful KPIs.
 
 
 ## Contributors :sparkles:
-<li> :fire: <a href="https://github.com/RishikeshPote">Rishikesh Pote</a></li>
-<li> :cyclone: <a href="https://github.com/amrutkinage">Amrut Kinage</a></li>
-<li> :ocean: <a href="https://github.com/Equinox-13">Quaid Johar</a></li>
+<li><a href="https://github.com/RishikeshPote">Rishikesh Pote</a> :fire: </li>
+<li><a href="https://github.com/amrutkinage">Amrut Kinage</a> :cyclone: </li>
+<li><a href="https://github.com/Equinox-13">Quaid Johar</a> :ocean: </li>
