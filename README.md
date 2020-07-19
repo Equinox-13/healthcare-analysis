@@ -2,6 +2,14 @@
 Analyzes healthcare data and transforms into useful KPIs. 
 
 
+## Department Dashboard :office:
+1. department (group by), added_amt (sum), patientname (count), discountamount (sum)
+
+## Patient Dashboard :mask:
+1. Top 10 registrationno, patientname, departmentname, added_amt, mobilenumber
+2. Bottom 10 registrationno, patientname, departmentname, added_amt, mobilenumber
+3. registrationno, patientname , age (max), cityname, districtname, statename, total_expense
+
 ## Powerplay Dashboard :bar_chart:
 1. registrationno, age, gender, cityname, districtname, statename,	admitdatetime (latest) - 50 records
 2. registrationno, opdate (latest), patname,	cityname,	districtname,	statename - 50 records 
