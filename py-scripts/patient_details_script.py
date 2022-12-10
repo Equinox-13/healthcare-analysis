@@ -57,7 +57,7 @@ class PatientCleaning:
   this method  will write clean_patient_details_dump.csv file in cleanfiles/ directory
   return: True
   """
-        patient_clean_df.to_csv('clean_files/clean_patient_details_dump.csv', encoding='utf-8', index=False)
+        patient_clean_df.to_csv('../clean_files/clean_patient_details_dump.csv', encoding='utf-8', index=False)
         return True
 
 
