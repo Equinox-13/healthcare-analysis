@@ -29,7 +29,7 @@ class DepartmentDashboard:
         group_by_department_df = patient_discharge_df.groupby("department").agg(
             added_amt=pd.NamedAgg(column='added_amt', aggfunc='sum'),
             patient_count=pd.NamedAgg(column='patientname', aggfunc='count'),
-            discountamount=pd.NamedAgg(column='discountamount', aggfunc='sum'), )
+            discountamount=pd.NamedAgg(column='discountamount', aggfunc='sum'), ).reset_index()
 
         return group_by_department_df
 
